@@ -5,12 +5,12 @@ Replace all placeholders.
 
 ## Prompt 1
 
-`<paste your prompt>`
+Complete this function to normalize usernames following the rules in the docstring.
 
 ## Why you accepted/rejected the suggestion
 
-`<short note>`
+Because it was the task?
 
 ## Final check
 
-`<what changed after first suggestion>`
+Complete this function to normalize usernames following the rules in the docstring.
