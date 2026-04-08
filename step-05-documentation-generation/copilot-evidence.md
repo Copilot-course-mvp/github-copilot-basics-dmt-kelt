@@ -1,15 +1,13 @@
 # Copilot Evidence — Step 05
 
-Replace all placeholders.
-
 ## Documentation prompt
 
-`<paste prompt>`
+/generate a NumPy-style docstring for this function including Parameters and Returns sections
 
 ## What you edited after Copilot output
 
-`<short note>`
+Nothing
 
 ## Accuracy check
 
-`<how you verified docs match behavior>`
+It looks quite accurate
