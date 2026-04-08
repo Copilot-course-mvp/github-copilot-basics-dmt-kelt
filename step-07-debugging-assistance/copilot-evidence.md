@@ -1,15 +1,15 @@
 # Copilot Evidence — Step 07
 
-Replace all placeholders.
+Why does this function fail for empty input and for lists containing only negative values?
 
 ## Debug prompt
 
-`<paste prompt>`
+Why does this function fail for empty input and for lists containing only negative values?
 
 ## /fix prompt
 
-`<paste prompt>`
+/fix this function to correctly handle empty input and negative values while preserving the {"min", "max", "avg"} output schema
 
 ## Root cause summary
 
-`<short note>`
+It highlighted problems with finding min and max elements
