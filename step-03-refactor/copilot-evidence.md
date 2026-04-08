@@ -1,15 +1,13 @@
 # Copilot Evidence — Step 03
 
-Replace all placeholders.
-
 ## Refactor prompt
 
-`<paste your prompt>`
+Refactor the duplicated discount calculation into a helper function called apply_discount(amount, pct) that returns the discounted value. Use it in both checkout_total and invoice_total.
 
 ## Why behavior is preserved
 
-`<short note>`
+?
 
 ## Before vs after summary
 
-`<short note>`
+The code is refactored according to the prompt
