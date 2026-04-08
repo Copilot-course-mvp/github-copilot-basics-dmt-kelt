@@ -1,15 +1,19 @@
 # Copilot Evidence — Step 04
 
-Replace all placeholders.
-
 ## Prompt used for test generation
 
-`<paste prompt>`
+Generate Python unittest test cases for the sanitize_tags function covering:
+- empty input
+- duplicate tags with mixed case
+- tags containing punctuation
+- tags with leading/trailing whitespace
+Include at least 6 assertions total.
 
 ## Extra edge case Copilot missed
 
-`<describe and why you added it>`
+The prompt covers all scenarios
 
 ## Final test count
 
-`<number of assertions/tests>`
+Tests: 6
+Assertions: 12
